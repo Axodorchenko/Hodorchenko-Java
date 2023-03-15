@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HodorchenkoJavaTask1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HodorchenkoJavaTask1_jar</output-path>
+    <root id="archive" name="HodorchenkoJavaTask1.jar">
+      <element id="module-output" name="HodorchenkoJavaTask1" />
+    </root>
+  </artifact>
+</component>
